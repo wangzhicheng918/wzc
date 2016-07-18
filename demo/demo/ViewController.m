@@ -20,6 +20,7 @@
     //明天去不成了吧    让你跟你父母说
     //不知道看啥
     // Do any additional setup after loading the view, typically from a nib.
+    //下次偷偷的
 }
 
 - (void)didReceiveMemoryWarning {
