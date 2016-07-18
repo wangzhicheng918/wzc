@@ -16,6 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"1");
+    //明天看电影去咯
+    //不知道看啥
     // Do any additional setup after loading the view, typically from a nib.
 }
 
